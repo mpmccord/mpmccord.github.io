@@ -26,6 +26,7 @@ h2 {
 .dropdown {
   position: relative;
   display: inline-block;
+  background-color: #008DFF; 
 }
 
 .dropdown-content {
