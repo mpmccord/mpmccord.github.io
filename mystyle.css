@@ -10,7 +10,10 @@ h1 {
 h2 {
 
 }
-
+.TextWrap {
+  float: right;
+  margin: 10px;
+}
 .button {
   border: none;
   color: #28DA6D;
