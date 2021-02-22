@@ -13,7 +13,7 @@ h2 {
 
 .button {
   border: none;
-  color: white;
+  color: #28DA6D;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -23,8 +23,6 @@ h2 {
   cursor: pointer;
 }
 
-.button1 {background-color: #1BB7D8;} /* Dark Blue */
-.button2 {background-color: #11846E;} /* Blue */
 .dropdown {
   position: relative;
   display: inline-block;
