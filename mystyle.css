@@ -31,7 +31,11 @@ h2 {
   display: inline-block;
   background-color: #008DFF; 
 }
-
+.navbar {
+  background-color: #FFFFFF;
+  position: fixed;
+  overflow: hidden;
+}
 .dropdown-content {
   display: none;
   position: absolute;
